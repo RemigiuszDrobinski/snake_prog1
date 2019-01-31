@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1548645947 source:c:\users\curio\onedrive\dokumenty\snakefinish\main (3).cpp
+	<iostream>
+	<windows.h>
+	"Header.h"
+
+1548645952 c:\users\curio\onedrive\dokumenty\snakefinish\header.h
+
+1548936764 source:c:\users\curio\onedrive\dokumenty\snakefinish\funkcje.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<string>
+	<fstream>
+	<time.h>
+	"Header.h"
+	"Header1.h"
+
+1548645950 c:\users\curio\onedrive\dokumenty\snakefinish\header1.h
+	<fstream>
+	<string>
+
+1548645947 source:c:\users\curio\onedrive\dokumenty\snakefinish\main.cpp
+	<iostream>
+	<windows.h>
+	"Header.h"
+
